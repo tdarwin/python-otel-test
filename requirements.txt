@@ -1,0 +1,11 @@
+micawber
+opentelemetry-api
+opentelemetry-exporter-otlp-proto-grpc
+opentelemetry-instrumentation
+opentelemetry-proto
+opentelemetry-sdk
+opentelemetry-semantic-conventions
+opentelemetry-util-http
+pyquery
+requests
+uritools
